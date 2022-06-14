@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kSushi
+- 👋 Hi, I’m Sushil Kasar
 - 👀 I’m interested in data science
 - 🌱 I’m currently working in Banking domain
 - 💞️ I’m looking to collaborate with people from various Industries to produce context and codes on R, Python and SAS.
